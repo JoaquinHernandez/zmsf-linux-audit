@@ -1,6 +1,6 @@
 # zmsf-linux-audit
 # ZMSF Linux Audit Toolkit
-<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/518bb623-b0db-4736-8063-8a5df7bd97b5" />
+<img width="1024" height="339" alt="image" src="https://github.com/user-attachments/assets/5136febb-9071-49b1-b1af-c5ec7f376703" />
 
 **A non-invasive, open-source-ready Linux host security baseline collector.** This toolkit complements [ZMSF — Zero Meaning Security Framework](https://github.com/JoaquinHernandez/ZMSF) and the [OWASP ASVS](https://asvs.owasp.org/). **It is not a certification, penetration test, vulnerability scanner, or proof of compliance.**
 
